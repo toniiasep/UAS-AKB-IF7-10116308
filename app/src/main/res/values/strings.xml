@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TONI App | UAS AKB</string>
+    <string name="nama">Asep Toni</string>
+    <string name="nim">1011308</string>
+    <string name="kelas">IF-7 / AKB-7</string>
+    <string name="kutipan">ingin membahagiakan orang di sekitar</string>
+    <string name="contactfragment">Contact</string>
+    <string name="notlp">082283293360</string>
+    <string name="email">toniiasep@gmail.com</string>
+    <string name="instagram">"@toniiasep"</string>
+    <string name="youtube">"youtube.com/toniichannel"</string>
+
+</resources>
